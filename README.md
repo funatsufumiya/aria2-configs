@@ -1,5 +1,9 @@
 # Usage
 
+1. Install `aria2c` before all
+
+- see [https://github.com/aria2/aria2/releases/](https://github.com/aria2/aria2/releases/)
+
 1. Copy these files into `~/.aria2`
 
 ```bash
