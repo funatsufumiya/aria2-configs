@@ -4,13 +4,13 @@
 
 - see [https://github.com/aria2/aria2/releases/](https://github.com/aria2/aria2/releases/)
 
-1. Copy these files into `~/.aria2`
+2. Copy these files into `~/.aria2`
 
 ```bash
 git clone https://github.com/atmarksharp/aria2-configs ~/.aria2
 ```
 
-2. Write aliases on `~/.bashrc` or `~/.zshrc` like below.
+3. Write aliases on `~/.bashrc` or `~/.zshrc` like below.
 
 ```bash
 alias "aria-x3"="aria2c --conf-path=$HOME/.aria2/x3.conf"
