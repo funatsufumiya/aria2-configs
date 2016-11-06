@@ -6,7 +6,7 @@
 git clone https://github.com/atmarksharp/aria2-configs ~/.aria2
 ```
 
-2. Write settings on `~/.bashrc` or `~/.zshrc` like below.
+2. Write aliases on `~/.bashrc` or `~/.zshrc` like below.
 
 ```bash
 alias "aria-x3"="aria2c --conf-path=$HOME/.aria2/x3.conf"
