@@ -1,6 +1,11 @@
 # Usage
 
 1. Copy these files into `~/.aria2`
+
+```bash
+git clone https://github.com/atmarksharp/aria2-configs ~/.aria2
+```
+
 2. Write settings on `~/.bashrc` or `~/.zshrc` like below.
 
 ```bash
