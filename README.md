@@ -1,16 +1,16 @@
 # Usage
 
-1. Install `aria2c` before all
+- Install `aria2c` before all
 
-- see [https://github.com/aria2/aria2/releases/](https://github.com/aria2/aria2/releases/)
+  - see [https://github.com/aria2/aria2/releases/](https://github.com/aria2/aria2/releases/)
 
-2. Copy these files into `~/.aria2`
+- Copy these files into `~/.aria2`
 
 ```bash
 git clone https://github.com/atmarksharp/aria2-configs ~/.aria2
 ```
 
-3. Write aliases on `~/.bashrc` or `~/.zshrc` like below.
+- Write aliases on `~/.bashrc` or `~/.zshrc` like below.
 
 ```bash
 alias "aria-x3"="aria2c --conf-path=$HOME/.aria2/x3.conf"
