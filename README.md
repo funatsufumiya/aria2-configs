@@ -19,3 +19,8 @@ alias "aria-x7"="aria2c --conf-path=$HOME/.aria2/x7.conf"
 alias "aria-x10"="aria2c --conf-path=$HOME/.aria2/x10.conf"
 alias "aria-x16"="aria2c --conf-path=$HOME/.aria2/x16.conf"
 ```
+- Finally, reload your shell.
+
+```bash
+exec $SHELL -l
+```
