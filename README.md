@@ -1,5 +1,7 @@
 # Usage
 
+This config adds ultra fast download helpers into your terminal.
+
 - Install `aria2c` before all
 
   - see [https://github.com/aria2/aria2/releases/](https://github.com/aria2/aria2/releases/)
