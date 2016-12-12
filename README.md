@@ -1,6 +1,6 @@
 # Usage
 
-This config adds ultra fast download helpers into your terminal.
+This config adds **ultra fast download helpers** into your terminal.
 
 - Install `aria2c` before all
 
