@@ -9,7 +9,7 @@ This config adds **ultra fast download helpers** into your terminal.
 - Copy these files into `~/.aria2`
 
 ```bash
-git clone https://github.com/atmarksharp/aria2-configs ~/.aria2
+git clone https://github.com/funatsufumiya/aria2-configs ~/.aria2
 ```
 
 - Write aliases on `~/.bashrc` or `~/.zshrc` like below.
